@@ -1,5 +1,7 @@
 # 스피드런 5기 스터디
 
+<img src="https://github.com/WegraLee/deep-learning-from-scratch/blob/master/cover_image.jpg" width="200" align="center">
+
 ## 1. 스터디 규칙
 
 - 매주 책 읽고 스터디 시간에 토론
@@ -10,7 +12,7 @@
 
 - 교재: 밑바닥부터 시작하는 딥러닝 1, 2권
 
-<img src="https://github.com/WegraLee/deep-learning-from-scratch/blob/master/cover_image.jpg" width="100" align="center">
+
 
 
 ## 2. 스터디 진도
