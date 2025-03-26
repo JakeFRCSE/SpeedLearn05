@@ -25,6 +25,6 @@
 ## 3. 멤버
 | 김진우 | 박준혁 | 송지윤 | 이시웅 | 이준수 |
 |:-------:|:-------:|:-------:| :------: | :------: |
-|<a href="https://github.com/maureen272"><img width="100px" alt="김진우" src="https://avatars.githubusercontent.com/u/105576797?v=4" /></a> | <a href="https://github.com/JakeFRCSE"><img width="100px" alt="박준혁" src="https://avatars.githubusercontent.com/u/162955476?v=4" /></a> | <a href="https://github.com/yun110w"><img width="100px" alt="송지윤" src="https://avatars.githubusercontent.com/u/169134363?v=4" /></a> | - | - |
-| [maureen272](https://github.com/maureen272) | [JakeFRCSE](https://github.com/JakeFRCSE) | [yun110w](https://github.com/yun110w) | - | - |
+|<a href="https://github.com/maureen272"><img width="100px" alt="김진우" src="https://avatars.githubusercontent.com/u/105576797?v=4" /></a>|<a href="https://github.com/JakeFRCSE"><img width="100px" alt="박준혁" src="https://avatars.githubusercontent.com/u/162955476?v=4" /></a>|<a href="https://github.com/yun110w"><img width="100px" alt="송지윤" src="https://avatars.githubusercontent.com/u/169134363?v=4" /></a>| - |<a href="https://github.com/junso0"><img width="100px" alt="이준수" src="https://avatars.githubusercontent.com/u/183038724?v=4" /></a>|
+| [maureen272](https://github.com/maureen272) | [JakeFRCSE](https://github.com/JakeFRCSE) | [yun110w](https://github.com/yun110w) | - | [junso0](https://github.com/junso0) |
 | - | eppi001004@gmail.com | - | - | - |
