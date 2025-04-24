@@ -1,6 +1,10 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+def numerical_gradient(f, x): # f: 함수, x: 입력값
+    h = 1e-4 # 0.0001
+    return (f(x + h) - f(x - h)) / (2 * h) # 중앙 차분법을 사용하여 수치 미분을 계산
+
 def function_1(x):
     return x ** 2
 
