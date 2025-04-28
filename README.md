@@ -1,3 +1,5 @@
+[[Kor]](#스피드런-5기-스터디) [[Eng]](#speedrun-5th-study-group)
+
 # 스피드런 5기 스터디
 <p align = "left">
   <img src="https://github.com/WegraLee/deep-learning-from-scratch/blob/master/cover_image.jpg" width="200">
@@ -34,6 +36,7 @@
 | [maureen272](https://github.com/maureen272) | [JakeFRCSE](https://github.com/JakeFRCSE) | [silverttthin](https://github.com/silverttthin) | [junso0](https://github.com/junso0) |
 | - | eppi001004@gmail.com  | silverttthin@naver.com | - |
 
+[[Kor]](#스피드런-5기-스터디) [[Eng]](#speedrun-5th-study-group)
 
 # Speedrun 5th Study Group
 <p align = "left">
